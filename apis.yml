@@ -54,6 +54,9 @@ apis:
   tags:
   - Healthcare
   - Open Platform
+  tags_raw:
+  - Healthcare
+  - Open Platform
   - API
   properties:
   - type: APIReference
